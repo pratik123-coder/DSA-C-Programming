@@ -1,0 +1,1 @@
+void inorder(struct node *root)

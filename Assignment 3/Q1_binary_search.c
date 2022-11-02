@@ -13,7 +13,6 @@ int main(){
     printf("Enter element to search: ");
     scanf("%d", &k);
 
-    // Applying binary search 
     int s = 0;
     int e = n-1;
     int m = s + (e-s)/2; 
